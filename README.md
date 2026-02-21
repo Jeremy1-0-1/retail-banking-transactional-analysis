@@ -39,6 +39,11 @@ Pivot Tables were then created to validate totals and explore early trends.
 To optimize performance and ensure scalable analysis, the integrated structure was later recreated in SQL by generating an EnrichedTransactions view, consolidating customer, account, and branch information into a single analytical dataset.
 
 This unified dataset served as the foundation for all subsequent SQL analysis and dashboard development.
+### SQL View Creation
+
+Below is the `EnrichedTransactions` view used to consolidate transaction, customer, account, and branch data into a unified analytical dataset:
+
+![SQL View](sql_view_creation.png)
 
 📊 Analysis 1 — Transaction Value by Region
 
