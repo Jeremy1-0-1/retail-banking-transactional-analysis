@@ -171,5 +171,5 @@ Tools Used
 	•	SQLite: View creation, relational data modeling and aggregation queries
 	•	Power BI: Dashboard visualizations
 
-  A. Jeremiah Martins
+  A. Jeremiah Martins |
   Junior Data Analyst
